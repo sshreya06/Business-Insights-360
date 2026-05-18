@@ -198,48 +198,17 @@ Central navigation hub with links to all five analytical views, a user manual do
 - **Supply chain risk is OOS (Out of Stock)** at the overall level, indicating demand is outpacing forecast — particularly severe for Peripherals and Storage segments
 - **Amazon** is the largest external customer ($496.88M), while **AtliQ Exclusive** has the highest GM% among top customers (46.01%)
 
----
-
-## 🗂️ Project Structure
-
-```
-Business-Insights-360/
-│
-├── README.md
-├── Business_Insights_360.pbix        # Main Power BI report file
-│
-├── screenshots/
-│   ├── home.png
-│   ├── finance_view.png
-│   ├── sales_view.png
-│   ├── marketing_view.png
-│   ├── supply_chain_view.png
-│   └── executive_view.png
-│
-└── resources/
-    └── data_model_overview.png       # Optional: exported data model diagram
-```
-
-> ⚠️ **Note:** Raw datasets are not included in this repository due to data confidentiality. The `.pbix` file contains the full data model, DAX measures, and report layout.
 
 ---
 
 ## 🚀 How to Use
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Business-Insights-360.git
-   ```
-
-2. **Open the report**
-   - Open `Business_Insights_360.pbix` in Power BI Desktop
-
-3. **Explore the dashboard**
+1. **Explore the dashboard**
    - Navigate between views using the left sidebar icons
    - Use slicers (Region, Customer, Segment, Year, Quarter) to filter the data
    - Toggle between **vs LY** (Last Year) and **vs Target** benchmarks using the top-right buttons
 
-4. **View live report**
+2. **View live report**
    - Access the published report directly via the [Live Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiMDk0OGRhYWQtOWEyYi00OWVmLWI0NWUtOGZlYzZjMjUwNzY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
@@ -256,4 +225,4 @@ Business-Insights-360/
 
 Feel free to connect if you have questions or feedback about this project!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shreyasaniya/)
